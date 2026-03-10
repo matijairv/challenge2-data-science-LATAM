@@ -58,6 +58,12 @@ El análisis permitió identificar varios factores asociados al abandono de clie
 - 🛠 Los clientes que cuentan con **soporte técnico** presentan menor tasa de abandono.  
 
 ---
+# ⚙️ Instalación y uso
+
+1.	Clonar el repositorio: https://github.com/matijairv/challenge2-data-science-LATAM
+2.	Entorno: Se recomienda ejecutar el archivo .ipynb en Google Colab.
+3.	Carga de Datos: Es necesario subir los archivos TelecomX_Data.json y TelecomX_diccionario.md a la sesión de Colab antes de ejecutar las celdas de código.
+
 
 # 📁 Estructura del repositorio
 
@@ -105,3 +111,5 @@ https://github.com/matijairv/challenge2-data-science-LATAM
 Proyecto desarrollado dentro del programa:
 
 **Oracle Next Education (ONE) — Data Science LATAM**
+
+## 👨‍💻 Autor: matijairv
